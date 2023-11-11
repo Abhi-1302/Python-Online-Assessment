@@ -10,7 +10,7 @@ This Python application offers functionalities for searching and sorting in list
 
 ### Running the Application
 1. Ensure you have Python installed.
-2. Run the Python script `search_sort_app.py`.
+2. Run the Python script .
 3. The application window will open, providing input fields and buttons for different operations.
 
 ### Input Fields
